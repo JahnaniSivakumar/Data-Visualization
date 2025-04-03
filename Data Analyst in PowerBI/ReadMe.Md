@@ -10,6 +10,9 @@ Dataset: World Wide Importers (WWI)
 
 ### Transforming the data
 
+- Transformed the dataset before loading, such as removing the top dummy row, unwanted columns, etc.
+- Identified the minimum total (including tax) sales for each buying group 
+- 
 
 
 
