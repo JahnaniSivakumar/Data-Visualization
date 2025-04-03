@@ -18,5 +18,13 @@ Dataset: World Wide Importers (WWI)
 - Washington has the highest profit average for the Wingtip toys buying group
 
 
+### Visualizing Data
+
+- Converted a Doughnut chart to a tree map
+- Formatted the title's font style and size
+- Changed a card view to a multi-card view by segmenting it with a scenario name 
+- Replaced a table with a matrix
+- Formatted the row and column headers along with values
+- Fixed a theme to the report and edited all the charts to be of same height and width\
 
 
