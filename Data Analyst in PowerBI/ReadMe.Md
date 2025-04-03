@@ -12,7 +12,10 @@ Dataset: World Wide Importers (WWI)
 
 - Transformed the dataset before loading, such as removing the top dummy row, unwanted columns, etc.
 - Identified the minimum total (including tax) sales for each buying group 
-- 
+- Formatted and cleaned the data to get Average Credit limits and Total sales (including tax)
+- Visualized the state or province using maps and identified the highest profit-yielding state 
+- The buying group acts as a filter to slice the data and KPIs for each customer buying group
+- Washington has the highest profit average for the Wingtip toys buying group
 
 
 
