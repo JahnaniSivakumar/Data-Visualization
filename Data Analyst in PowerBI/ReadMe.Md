@@ -25,6 +25,8 @@ Dataset: World Wide Importers (WWI)
 - Changed a card view to a multi-card view by segmenting it with a scenario name 
 - Replaced a table with a matrix
 - Formatted the row and column headers along with values
-- Fixed a theme to the report and edited all the charts to be of same height and width\
+- Fixed a theme to the report and edited all the charts to be of the same height and width
+
+
 
 
