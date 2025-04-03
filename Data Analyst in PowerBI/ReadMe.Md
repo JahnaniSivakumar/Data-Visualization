@@ -28,5 +28,12 @@ Dataset: World Wide Importers (WWI)
 - Fixed a theme to the report and edited all the charts to be of the same height and width
 
 
+### Drilling down and Filtering
+
+- Exported a clustered column chart's data to a CSV file
+- Created a hierarchy for a Date field where the hierarchy started from year, quarter, month to Date
+- Drilled down each level and expanded to the next level on the same level
+- Explored Edit Interactions to make a chart non-interactable when selecting an option in a chart
+- Applied Advanced Filtering options to filter the data using Top N conditions
 
 
